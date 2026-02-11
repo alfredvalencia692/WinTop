@@ -1,0 +1,15 @@
+WinTop - Keyboard Commands
+==========================
+
+C  - Sort by CPU
+M  - Sort by Memory
+N  - Next page
+P  - Previous page
+K  - Kill process
+S  - Start process
+T  - TOP mode
+H  - HTOP mode
++  - Faster refresh
+-  - Slower refresh
+G  - Sort by GPU
+Q  - Quit
