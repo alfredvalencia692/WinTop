@@ -131,14 +131,25 @@ For detailed installation instructions, please refer to:
 **OPTIONAL:**
 
 - If you want to install on linux or you can just use the HTOP pkg
- Ubuntu/Debian: sudo apt install htop
- Fedora: sudo dnf install htop
- CentOS/RHEL(8+): sudo dnf install htop
+ Ubuntu/Debian:
+ sudo apt install htop
+ ```
+ Fedora:
+ sudo dnf install htop
+ ```
+ CentOS/RHEL(8+):
+ sudo dnf install htop
+ ```
  Older CentOS:
  sudo yum install epel-release
  sudo yum install htop
- Arch Linux/Manjaro: sudo pacman -S htop
- openSUSE: sudo zypper install htop
+ ```
+ Arch Linux/Manjaro:
+ sudo pacman -S htop
+ ```
+ openSUSE:
+ sudo zypper install htop
+ ```
 
  then after installation just type
 
