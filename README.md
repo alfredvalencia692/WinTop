@@ -263,9 +263,28 @@ GPU0 [NVIDIA] [████████████░░░░░░░░░�
 
 Tasks: 245 (5 run, 230 sleep)   Uptime: 2:15:30   Sort: CPU   Page: 1/10
 
+╔════════════════════════════════════════════════════════════════════╗
+║  WINTOP - Windows System Monitor v2.5 (Multi-GPU)                  ║
+║  Github - https://github.com/alfredvalencia692/wintop              ║
+╚════════════════════════════════════════════════════════════════════╝
 
-<img width="1031" height="932" alt="HTOP" src="https://github.com/user-attachments/assets/55c4b33d-0a28-48e7-856f-50b12b8f6faa" />
+  [T] - Display in TOP style (simple, clean)
+  [H] - Display in HTOP style (colorful, detailed)
+  [Q] - Quit
 
+──────────────────────────────────────────────────────────────────────
+GPU Support Status:
+  NVIDIA: ✗ (Full metrics)
+  AMD:    ⚠
+  Intel:  ⚠
+
+  For better GPU monitoring:
+    NVIDIA: pip install gputil (or nvidia-ml-py3)
+    AMD/Intel: Install OpenHardwareMonitor for advanced metrics
+    Download: https://openhardwaremonitor.org/
+──────────────────────────────────────────────────────────────────────
+
+  Select your option:
 ```
 
 ### TOP Mode (Simple)
