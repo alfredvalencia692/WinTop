@@ -262,6 +262,10 @@ GPU0 [NVIDIA] [████████████░░░░░░░░░�
               [████████░░░░░░░░░░░░░░░] 8192MB/24576MB (33.3%)
 
 Tasks: 245 (5 run, 230 sleep)   Uptime: 2:15:30   Sort: CPU   Page: 1/10
+
+
+<img width="1031" height="932" alt="HTOP" src="https://github.com/user-attachments/assets/55c4b33d-0a28-48e7-856f-50b12b8f6faa" />
+
 ```
 
 ### TOP Mode (Simple)
