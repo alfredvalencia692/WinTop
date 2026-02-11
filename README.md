@@ -131,6 +131,7 @@ For detailed installation instructions, please refer to:
 **OPTIONAL:**
 
 - If you want to install on linux or you can just use the HTOP pkg
+ ```bash
  Ubuntu/Debian:
  sudo apt install htop
  ```
